@@ -1,7 +1,7 @@
 ShogunDamon.github.io
 =====================
 
-**You may be wondering why I have gathered you all here today...**
+**You may be wondering why I (Damon Glatz) have gathered you all here today...**
 
 # How do we kill Superman?
 
