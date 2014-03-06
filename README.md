@@ -1,6 +1,7 @@
 ShogunDamon.github.io
 =====================
 
-Your Public Site
+**You may be wondering why I have brought you all here today...**
 
-To get started, open the index.html file to find instructions and examples. You'll start your editing there!
+# How do we kill Superman?
+
