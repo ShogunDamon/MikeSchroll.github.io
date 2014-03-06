@@ -10,7 +10,7 @@ This is Kryptonite... Superman's only weakness.
 
 [Here are some other methods to kill the Man of Steel](http://answers.yahoo.com/question/index?qid=20060824130401AAWo4Ed)
 
-So thank you for you're kind attention, here are some things you can take away from this...
+**So thank you for you're kind attention, here are some things you can take away from this...**
 
 1. Superman sucks.
 
@@ -18,4 +18,4 @@ So thank you for you're kind attention, here are some things you can take away f
 
 3. I don't know who this "Clark Kent" guy is... But he sucks too.
 
-Thank you for you're time. Lets go kill Superman.
+### Thank you for you're time. Lets go kill Superman.
